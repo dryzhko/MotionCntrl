@@ -1,0 +1,15 @@
+package MotionCntrl; 
+import java.io.IOException; 
+import java.awt.AWTException; 
+import java.awt.GraphicsDevice; 
+import java.awt.GraphicsEnvironment; 
+import java.awt.MouseInfo; 
+import java.awt.Point; 
+import java.awt.Robot; 
+import java.awt.event.InputEvent; 
+import java.awt.event.KeyEvent; 
+import com.leapmotion.leap.*; 
+import com.leapmotion.leap.Controller.PolicyFlag; 
+public class MotionCntrl {
+
+}
